@@ -64,7 +64,7 @@ const spriteStates = [
     },
 ];
 spriteStates.forEach((state,index)=>{
-    let frames = { // this to express array of pairs equivalent vector<pair<int,int>>
+    let frames = { // this to express array of pairs equivalent vector<vector<struct{int x, int y}>>
         loc:[]
     }
     for(let i=0; i<state.frame;i++){
