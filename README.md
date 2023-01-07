@@ -13,3 +13,4 @@ Done:
 =====
 1. spriteAnimation : in this project, we take a 2D image containing different states of a dog character, then we create different animation.
 2. parallaxbackgrouds : how to make a 2D background move in an infinit loop, each layer at a different speed
+3. Enemy mouvement : understant how to make random or sin/cos mouvement (I can do more complexe but Im intrested only in the core concepts)
