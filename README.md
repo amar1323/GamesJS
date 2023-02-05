@@ -17,3 +17,4 @@ Done:
 4. Fadding away colision animation : using same princple as sprite animation. In addition to adding sound and making stuff rotate
 5. Point and click game: color collision technique+ particle animation+ animation of boom at hit
 6. Factorise the code using POO (inheritence). I still need to study more JavaScript, POO rules are very different from c++ (super, extends, members of child accessible in parent ...)
+7. Side scroller game: combining all projects, sprite animation, paralax background, enemy variaty, collision and also adding key event handling.
